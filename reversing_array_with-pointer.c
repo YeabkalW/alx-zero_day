@@ -10,7 +10,6 @@
 
 int main (void)
 {
-    int a[N], *p;
     printf("enter %d elements in the array: ", N);
     for(p=a; p<= a+4; p++)
     {
